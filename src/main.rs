@@ -1,7 +1,4 @@
-mod tsp;
 mod functions_2d;
-mod functions_2d_2;
-mod functions_2d_3;
 
 fn main() {
 
